@@ -1,0 +1,104 @@
+{
+    "StoryFoods":[
+    {
+        "key" : "A1",
+        "title": "ข้าวมันไก่",
+        "thumbnail": ["./Food/img/ChickenRice-1.jpg","./Food/img/ChickenRice-2.jpg"],
+        "Energy":765,
+        "Ingredient" : [
+            "สะโพกไก่",
+            "กระเทียม 3 - 4 หัว",
+            "รากผักชี 6 ราก",
+            "ขิงแก่หั่นเป็นแผ่นบาง 6 แผ่น",
+            "พริกไทย 30 เม็ด",
+            "เกลือ 1 ½ ช้อนโต๊ะ",
+            "น้ำตาลกรวด ½ ช้อนโต๊ะ",
+            "ข้าวสารดิบ 2 ถ้วยตวง",
+            "ซีอิ๊วขาว 3 ช้อนโต๊ะ",
+            "น้ำมันพืช ½ ช้อนโต๊ะ",
+            "แตงกวา",
+            "ผักชี"
+        ],
+        "Percent":[
+            ["Vitamin A",14.69],
+            ["Vitamin B1",0.06],
+            ["Vitamin B2",0.12],
+            ["Vitamin B3",0.29],
+            ["Vitamin B5",0],
+            ["Vitamin B6",24.99],
+            ["Vitamin B7",0],
+            ["Vitamin B9",0],
+            ["Vitamin B12",10],
+            ["Vitamin C",28.7],
+            ["Vitamin D",0],
+            ["Vitamin E",0],
+            ["Vitamin K",160.26]
+        ]
+    },
+    {
+        "key" : "A3",
+        "title": "หมูทอดกระเทียม",
+        "thumbnail": ["./Food/img/Pork-1.jpg","./Food/img/Pork-2.jpg"],
+        "Energy":166,
+        "Ingredient" : [
+            "เนื้อหมู 1-2 ถ้วยตวง",
+            "กระเทียม ½ ถ้วยตวง",
+            "น้ำมันหอย 1 ช้อนโต๊ะ",
+            "ซีอิ้วขาว 1 ช้อนโต๊ะ",
+            "น้ำตาล 1 ช้อนชา",
+            "น้ำมัน 1 ช้อนโต๊ะ",
+            "พริกไทยโรยหน้า",
+            "ผักชีสำหรับตกแต่ง"
+        ],
+        "Percent":[
+            ["Vitamin A",0],
+            ["Vitamin B1",0],
+            ["Vitamin B2",0],
+            ["Vitamin B3",0],
+            ["Vitamin B5",0],
+            ["Vitamin B6",31],
+            ["Vitamin B7",0],
+            ["Vitamin B9",0],
+            ["Vitamin B12",8],
+            ["Vitamin C",1],
+            ["Vitamin D",4],
+            ["Vitamin E",0],
+            ["Vitamin K",0]
+        ]
+    },
+    {
+        "key" : "A4",
+        "title": "ต้มยำกุ้ง",
+        "thumbnail": ["./Food/img/TomYamKung-1.jpg","./Food/img/TomYamKung-2.jpg"],
+        "Energy":874,
+        "Ingredient" : [
+            "เห็ดฟาง 300 กรัม",
+            "กุ้งก้ามกราม 5-10 ตัว",
+            "พริก 5-8 เม็ด",
+            "มะนาว 2 ลูก",
+            "ใบมะกรูดฉีก 3-5 ใบ",
+            "ข่าหั่น 4 แว่น",
+            "ตะไคร้ 1 ต้น",
+            "น้ำซุป 8 ถ้วย",
+            "น้ำตาล 1 ช้อนโต๊ะ",
+            "น้ำปลา 2 ช้อนโต๊ะ",
+            "น้ำพริกเผา 2 ช้อนโต๊ะ"
+        ],
+        "Percent":[
+            ["Vitamin A",10.6],
+            ["Vitamin B1",6.43],
+            ["Vitamin B2",15.59],
+            ["Vitamin B3",13.1],
+            ["Vitamin B5",0],
+            ["Vitamin B6",19.61],
+            ["Vitamin B7",0],
+            ["Vitamin B9",0],
+            ["Vitamin B12",4.32],
+            ["Vitamin C",68.27],
+            ["Vitamin D",0],
+            ["Vitamin E",0.61],
+            ["Vitamin K",23.11]
+        ]
+    }
+    ]
+}
